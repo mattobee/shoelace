@@ -70,7 +70,7 @@
     "@floating-ui/dom": "^1.5.3",
     "@lit/react": "^1.0.0",
     "@shoelace-style/animations": "^1.1.0",
-    "@shoelace-style/localize": "^3.1.2",
+    "@shoelace-style/localize": "^3.2.1",
     "composed-offset-position": "^0.0.4",
     "lit": "^3.0.0",
     "qr-creator": "^1.0.0"
